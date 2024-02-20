@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.font-Raleway{
+    font-family: "Raleway", sans-serif;
+}
+
+.banner-bg{
+    background: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font-inter{
+    font-family: "Inter", sans-serif;
+}
+.banner-bg-shodow{
+    border-radius: 32px;
+background: linear-gradient(180.00deg, rgba(3, 7, 18, 0.5),rgba(3, 7, 18, 0) 100%),url(1);
+}
